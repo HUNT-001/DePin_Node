@@ -1,4 +1,4 @@
-## Project Documentation: Zero-Spoof DePIN Oracle Node
+# Project Documentation: Zero-Spoof DePIN Oracle Node
 This document provides a comprehensive blueprint, architecture specification, and implementation guide for building a hardware-enforced, AI-gated Decentralized Physical Infrastructure Network (DePIN) data oracle using an ESP32-S3, an Arduino, and edge-based machine learning.
 ## 1. Executive Concept
 Traditional DePIN networks suffer from Data Spoofing Vulnerabilities. Because nodes are financially incentivized (via crypto tokens) to upload physical environmental telemetry, malicious actors can easily bypass sensors and inject synthetic data streams via custom scripts or raw hardware emulation to extract undue rewards without performing actual physical monitoring.
